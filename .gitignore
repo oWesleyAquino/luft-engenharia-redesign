@@ -2,12 +2,10 @@
 /.next
 /out
 /build
+/.vercel
 *.log
 .env*
 !.env.example
 .DS_Store
 *.tsbuildinfo
 next-env.d.ts
-
-.vercel
-.env*
