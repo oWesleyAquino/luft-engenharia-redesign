@@ -1,0 +1,80 @@
+[
+  {
+    "key": "hero",
+    "source": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?auto=format&fit=crop&w=2200&q=85",
+    "status": 200,
+    "originalSha256": "3d4105136e83b1643c1052bcf0ae3acb28708cc70daa0b35078677722cb63dbc",
+    "derivativeSha256": "f032ce9660b23fc587f2daf75cbc0fcb8182ebc8469250ff2b246f04f978059a",
+    "local": "/images/redesign-final/hero.webp",
+    "size": [
+      1800,
+      1198
+    ],
+    "rights": "divulgacao publica pendente; fonte preexistente no projeto; sem atribuicao de obra executada"
+  },
+  {
+    "key": "solar",
+    "source": "https://images.unsplash.com/photo-1497440001374-f26997328c1b?auto=format&fit=crop&w=1200&q=85",
+    "status": 200,
+    "originalSha256": "9150c3e561481458b9a9b2b9165737c9f22d6784cd6ef84f6af67ef68f3cc303",
+    "derivativeSha256": "7cfcbf26cd872c5adf144105fd42378089a33709909fa199ed62108560b553b7",
+    "local": "/images/redesign-final/solar.webp",
+    "size": [
+      1200,
+      675
+    ],
+    "rights": "divulgacao publica pendente; fonte preexistente no projeto; sem atribuicao de obra executada"
+  },
+  {
+    "key": "roof",
+    "source": "https://images.unsplash.com/photo-1624397640148-949b1732bb0a?auto=format&fit=crop&w=1200&q=85",
+    "status": 200,
+    "originalSha256": "1a2871ebfd3f28cc5c34de4777cbf6ec939aa62a9efb49718cfe0dbc6ba4be19",
+    "derivativeSha256": "f7554ad9bef6403e785ee67f5db9715f1acc53885de9ca1da4bdb8545356170a",
+    "local": "/images/redesign-final/roof.webp",
+    "size": [
+      1200,
+      900
+    ],
+    "rights": "divulgacao publica pendente; fonte preexistente no projeto; sem atribuicao de obra executada"
+  },
+  {
+    "key": "technical",
+    "source": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?auto=format&fit=crop&w=1200&q=85",
+    "status": 200,
+    "originalSha256": "d0171ccccafd0f82d35bf440a51b49ef1e8b72971d8e478cfb821f8cd1aec731",
+    "derivativeSha256": "784ea2556575c8db9bef1c4257cbfb69f91368e4fa843d5f0965f38c78534eb0",
+    "local": "/images/redesign-final/technical.webp",
+    "size": [
+      1200,
+      800
+    ],
+    "rights": "divulgacao publica pendente; fonte preexistente no projeto; sem atribuicao de obra executada"
+  },
+  {
+    "key": "industrial",
+    "source": "https://images.unsplash.com/photo-1487958449943-2429e8be8625?auto=format&fit=crop&w=1200&q=85",
+    "status": 200,
+    "originalSha256": "cfcfe7c542d04ace259be319765a5a49b633c3c8b795a8ae0328be4f11d285a4",
+    "derivativeSha256": "68e5ac58b9c26c8c51db8ff2edcbec493489eeb51a786c8f6c26eb759ec6cf0f",
+    "local": "/images/redesign-final/industrial.webp",
+    "size": [
+      1200,
+      800
+    ],
+    "rights": "divulgacao publica pendente; fonte preexistente no projeto; sem atribuicao de obra executada"
+  },
+  {
+    "key": "sun",
+    "source": "https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=1200&q=85",
+    "status": 200,
+    "originalSha256": "1c0180c78a1972e3ca9b0c8fc70a78b6c3544dbeb8fb349e35b28e913b28de28",
+    "derivativeSha256": "2ce27a9d9740226b27a50da28330fca559036ef3f363b2e99a9a55914ade6803",
+    "local": "/images/redesign-final/sun.webp",
+    "size": [
+      1200,
+      798
+    ],
+    "rights": "divulgacao publica pendente; fonte preexistente no projeto; sem atribuicao de obra executada"
+  }
+]
