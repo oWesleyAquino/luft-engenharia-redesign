@@ -77,3 +77,15 @@ Principais arquivos: `src/components/HomeSections.tsx`, `src/components/Site.tsx
 Reversão: comparar com commit de origem `a754409`; preservar alterações posteriores e reverter o commit específico em uma branch própria. Não utilizar reset destrutivo nem force push.
 
 Promoção futura: revisar Preview autenticado no iPhone, confirmar direitos das imagens/conteúdo e aceite visual, revisar pendências de ferramentas de desenvolvimento e somente então solicitar autorização específica para promoção. Nenhum comando de produção faz parte desta entrega.
+
+## Validação online concluída nesta sessão
+
+- Preview: https://luft-engenharia-redesign-hw9v5wqjb-wesley-aquino.vercel.app/
+- Vercel deployment: `dpl_8LJxpSRznEdgGxZrBiQvauLFLFsA`, **READY**, `source: git`, `target: null` (Preview), commit `9ea626c2e0f57239818b3b222b8656daf926a9b4` da branch de redesign.
+- Consulta anônima ao HTTPS: **302 para login Vercel**. Proteção de Preview confirmada também na configuração autenticada do projeto.
+- Plugin Vercel autenticado `web_fetch_vercel_url`: **HTTP 200** na Home, Sobre, Soluções, Projetos, Simulador e Contato. Foram confirmados também CSS principal, dois chunks JavaScript e o logotipo local com HTTP 200.
+- HTML publicado contém `solar-panel` e `process-journey`; CSS publicado contém Manrope/Inter, timeline nativa e preferência por movimento reduzido.
+- **Capturas online do site continuam pendentes.** O token de desenvolvimento local não permitiu autenticação do browser e retornou redirecionamento de login; nenhum segredo foi exibido ou copiado para evidências. As 15 capturas do build local permanecem corretamente identificadas como locais. Não se confundem screenshots de login com screenshots da aplicação.
+- Skills Vercel de deployments, CLI e acesso a deployments protegidos foram consultadas na verificação. O plugin mantém o acesso autenticado de teste sem remover a proteção dos endereços públicos.
+
+Este complemento de validação online foi gravado apenas no cofre depois do push do commit de implementação, para evitar novo deployment de uma mudança documental. A branch remota contém o código validado e os testes locais; este complemento está pendente de commit documental.
