@@ -109,3 +109,8 @@ Comando após build: `npm run start -- --hostname 127.0.0.1 --port 4302`. URL: h
 ## Versão aprovada para publicação · 2026-11-26
 
 Aprovação visual individual informada pelo usuário na Fase 04. Identidade, funcionalidades e limitações demonstrativas preservadas. [Case e checklist](docs/2026-11-25%20-%20Case%20e%20aprovacao.md). Safari real, dispositivos físicos, leitores de tela, Core Web Vitals de campo e direitos/licenças continuam pendentes de conferência, sem declaração de aprovação automática. Screenshots locais da versão modernizada em `docs/case-fase04/`.
+
+<!-- ENTREGA-FASE04 -->
+## Entrega da Fase 04 · 2026-11-26
+
+Publicado e validado: [LUFT Engenharia](https://luft-engenharia-redesign.vercel.app). [Case atualizado, capturas e limites](docs/2026-11-26%20-%20Publicacao%20e%20evidencias.md). Os registros de pendência datados da Fase 03 abaixo/acima são históricos, anteriores ao aceite informado na Fase 04.
