@@ -13,3 +13,17 @@ next-env.d.ts
 /qa-redesign/evidencias/*.png
 /qa-redesign/evidencias/perfil-chrome-*/
 /qa-redesign/npm-cache/
+
+# Higiene de publicação do portfólio
+.vercel/
+.env*
+node_modules/
+.next/
+out/
+dist/
+test-results/
+playwright-report/
+**/perfil-chrome*/
+**/chrome-profile*/
+*.log
+*.tsbuildinfo

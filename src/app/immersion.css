@@ -15,3 +15,28 @@
 @media(max-width:900px){.energy-sequence.motion-ready{height:auto}.energy-sequence.motion-ready .solar-hero{position:relative;height:auto;min-height:0}.solar-object{--energy-p:var(--local,.5);height:330px;width:min(460px,88%);margin:18px auto 40px}.energy-sequence .hero-content{padding-top:140px}.energy-sequence .hero-composition{padding-bottom:70px}.energy-labels{bottom:-22px;left:0;right:0;font-size:10px}.energy-labels span{max-width:12ch}.energy-flow{height:100%}.energy-sequence .hero-scroll{display:none}.energy-sequence .hero-content>p{max-width:46ch}.energy-sequence .solar-panel{width:82%}.energy-sequence .image-credit{font-size:9px;right:18px}.process-journey{margin-top:10px}.journey-step{padding:26px 0}.benefit-card{padding-block:22px}.about-photo{min-height:400px}}
 @media(max-width:600px){.energy-sequence .solar-hero h1{font-size:clamp(55px,15vw,70px)}.solar-object{height:295px;width:90%;margin-bottom:45px}.energy-sequence .hero-content{padding-top:125px}.energy-sequence .hero-actions .btn{font-size:12px;min-height:50px}.energy-labels{font-size:9px;letter-spacing:.04em}.energy-labels b{font-size:11px}.whatsapp-float{width:44px;height:44px;right:10px;bottom:10px}.benefit-card{padding:22px 20px}.benefit-card h3{font-size:20px}.benefit-card p{font-size:14px}.benefit-card .card-index{margin-bottom:14px}.section{padding-block:75px}.journey-step p{font-size:15px}.solar-process .section-head h2{font-size:35px}}
 @media(prefers-reduced-motion:reduce){.energy-sequence{height:auto!important}.energy-sequence .solar-hero{position:relative!important}.solar-panel{transform:rotateY(-10deg) rotateX(12deg) rotateZ(-5deg)!important}.solar-halo,.journey-step{transform:none!important}.energy-flow .energy-draw{stroke-dashoffset:0}.energy-home{opacity:1}.solar-object{--energy-p:1}}
+/* Auditoria 25/11: papéis de texto preservam azul/lima com contraste nos fundos reais. */
+.section-head:not(.on-dark) > p,
+.benefit-card .card-index,
+.benefit-card p,
+.showcase-info > p,
+.insight-intro > p,
+.gallery-caption > div > span,
+.gallery-caption > div > p,
+.gallery-type,
+.sim-header > p,
+.range-hints,
+.sim-explainer,
+.contact-details > p,
+.section-side-label,
+.contact-details small,
+.contact-form > p,
+.contact-form > small { color: #53665f; }
+.insight-number,
+.solution-body > span { color: #4a611d; }
+.eyebrow { color: #4a611d; }
+.on-dark .eyebrow,
+.section-dark .eyebrow,
+.page-hero .eyebrow,
+.cta-band .eyebrow { color: var(--lime); }
+.sim-banner .eyebrow { color: #3d5019; }

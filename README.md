@@ -97,3 +97,15 @@ LUFT Engenharia, nome, logotipo e eventuais materiais institucionais pertencem a
 ---
 
 **[Visualizar o redesign online](https://luft-engenharia-redesign.vercel.app/)**
+
+
+## QA final e execução independente · 2026-11-25
+
+[Case, execução e checklist de publicação](docs/2026-11-25%20-%20Case%20e%20aprovacao.md).
+
+Comando após build: `npm run start -- --hostname 127.0.0.1 --port 4302`. URL: http://127.0.0.1:4302/ . Cada aplicação tem aprovação separada; os resultados de Chromium, Firefox e WebKit estão no relatório da Fase 03. WebKit não equivale a Safari real. Publicação permanece pendente.
+
+
+## Versão aprovada para publicação · 2026-11-26
+
+Aprovação visual individual informada pelo usuário na Fase 04. Identidade, funcionalidades e limitações demonstrativas preservadas. [Case e checklist](docs/2026-11-25%20-%20Case%20e%20aprovacao.md). Safari real, dispositivos físicos, leitores de tela, Core Web Vitals de campo e direitos/licenças continuam pendentes de conferência, sem declaração de aprovação automática. Screenshots locais da versão modernizada em `docs/case-fase04/`.
