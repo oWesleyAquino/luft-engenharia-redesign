@@ -9,3 +9,9 @@ tests/
 **/perfil-chrome*/
 assets/originais/
 *.log
+
+qa-redesign/
+evidencias/
+backups/
+**/perfil-chrome*/**
+
